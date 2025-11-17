@@ -40,7 +40,7 @@ cd timeofsorting
 ```
 2. Build the project using Visual Studio or a C++ compiler of your choice.
 3. Go to project and click *alt+f7* buttons, click *debugging* and set arguments to chosen number of integers (e.g. 50000). Then click *OK* and run the program.
-    This will create a random array of 1000 integers and display the execution time for each sorting algorithm.
+    This will create a random array of 50000 (for instance - depends on your choice) integers and display the execution time for each sorting algorithm in a few seconds.
 
 ## Example Output
 Sortowanie za pomoca InsertSort zajmie:
