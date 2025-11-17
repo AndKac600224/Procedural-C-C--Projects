@@ -39,7 +39,7 @@ The Knight's Tour is a classic chess problem where a knight must visit every squ
 
 
 ## Example Output
-0   17  2   19  4
+0   17  2   19  4  
 3   6   15  8   21
 ...
 All moves: 1728
